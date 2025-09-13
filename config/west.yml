@@ -17,12 +17,12 @@ manifest:
    # - name: mario-peripheral-animation
    #   remote: gpeye
    #    revision: main 
-    # - name: nice-view-mod
-    #   remote: rui
-    #   revision: main
-    - name: nice-view-mod #bongo cat widget
-      remote: dsifry
+    - name: nice-view-mod
+      remote: rui
       revision: main
+    # - name: nice-view-mod #bongo cat widget
+    #   remote: dsifry
+    #   revision: main
     - name: eyelash_sofle
       url: https://github.com/a741725193/zmk-sofle
       revision: main
